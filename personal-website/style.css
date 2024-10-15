@@ -35,33 +35,14 @@ nav ul li a {
 }
 
 .text-box {
-  margin-top: 50px;
-  max-width: 600px;
-}
-
-.text-box h1 {
+  margin: 75px 15px;
   font-size: 35px;
-  margin-bottom: 20px;
   color: rgb(186, 91, 57);
-}
-
-.text-box p {
-  margin-bottom: 20px;
-  margin-right: 15px;
-  font-size: 25px;
-  color: rgb(186, 91, 57);
-}
-
-.text-box h3 {
   font-size: 20px;
-  margin: 30px;
-  color: rgb(186, 91, 57);
 }
-
-.photo-right {
-  position: absolute;
-  top: 20%;
-  right: 12%;
+.text-box h3{
+  text-decoration: underline;
+  margin: 15px;
 }
 
 .quote {
@@ -72,6 +53,14 @@ nav ul li a {
 }
 
 .photo {
-  position: absolute;
+  float: left;
+  left: 12%;
+  margin: 15px 15px;
+
+}
+.photo-2 {
+  float: right;
   right: 12%;
+  margin: 15px 15px;
+
 }
