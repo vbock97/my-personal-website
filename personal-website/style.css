@@ -108,5 +108,9 @@ button:hover{
   font-size: larger;
   transition:0.45s;
 }
-
+nav ul li:hover{
+  font-size: 20px;
+  transition:0.45s;
+  text-decoration-line: underline;
+}
 
